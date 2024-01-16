@@ -1,0 +1,6 @@
+@SYSTEMCMTD_WEB_API_SERVER_SIDE_HostAddress = http://localhost:5084
+
+GET {{SYSTEMCMTD_WEB_API_SERVER_SIDE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

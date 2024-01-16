@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYSTEMCMTD-WEB-API-SERVER-SIDE", "SYSTEMCMTD-WEB-API-SERVER-SIDE.csproj", "{51FBEE02-A52B-471E-B799-26B160A79F68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51FBEE02-A52B-471E-B799-26B160A79F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FBEE02-A52B-471E-B799-26B160A79F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FBEE02-A52B-471E-B799-26B160A79F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FBEE02-A52B-471E-B799-26B160A79F68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03472337-13D1-4F52-8845-7CFBC3D2D7CA}
+	EndGlobalSection
+EndGlobal
